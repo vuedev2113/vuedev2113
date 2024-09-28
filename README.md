@@ -1,6 +1,9 @@
 # Senior Vue Developer
 <p align="center"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></p>
 <hr>
+
+## I am a senior vue developer
+
 - 👋 Hi, I’m @vuedev2113.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Nuxt.js and Laravel.
