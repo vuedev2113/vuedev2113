@@ -4,7 +4,7 @@
 
 ## I am a senior vue developer
 
-- 👋 Hi, I’m @vuedev2113.
+- 👋 Hi, I’m a Vue.js developer.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Nuxt.js and Laravel.
 - 💞️ I’m looking to collaborate on large project.
