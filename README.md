@@ -14,11 +14,31 @@
 
 <table align="center">
   <tr>
-    <td>
-    <h2>My Main Skill Sets</h2>
+    <td colspan="9">
+      <h2 align="center">My Main Skill Sets</h2>
     </td>
   </tr>
   <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45"
+        alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45"
+        alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45"
+        alt="Angular" />
+      <br>Vite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vuetify" width="45" height="45"
+        alt="Three.js" />
+      <br>Vuetify.js
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=javascript" alt="Javascript"
         width="45" height="45" />
@@ -38,26 +58,6 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"
         alt="Next.js" />
       <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45"
-        alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45"
-        alt="Nuxt.js" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45"
-        alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45"
-        alt="Three.js" />
-      <br>Three.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45"
@@ -108,27 +108,25 @@
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"
-        alt="php" />
+        alt="mongodb" />
       <br>Mongo
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img
-        src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true"
-        height="45">
-      <br>NFT
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45"
+        alt="php" />
+      <br>PHP
     </td>
     <td align="center" width="90">
-      <img
-        src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true"
-        height="45">
-      <br>DeFi
+      <img src="https://skillicons.dev/icons?i=scss" width="45" height="45"
+        alt="scss" />
+      <br>SCSS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45"
-        alt="Solidity" />
-      <br>Solidity
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45"
+        alt="flask" />
+      <br>Flask
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45"
@@ -142,7 +140,7 @@
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" width="45" height="45"
-        alt="Flutter" />
+        alt="aws" />
       <br>AWS
     </td>
     <td align="center" width="90">
