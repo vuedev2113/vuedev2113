@@ -22,7 +22,7 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45"
         alt="Vue" />
-      <br>Vue
+      <br>Vue.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45"
@@ -52,7 +52,7 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" alt="React" width="45"
         height="45" />
-      <br>React
+      <br>React.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"
@@ -60,15 +60,15 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45"
-        alt="Three.js" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45"
+        alt="Svelte" />
+      <br>Svelte.js
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"
-        alt="Laravel" />
+        alt="NodeJS" />
       <br>NodeJS
     </td>
     <td align="center" width="90">
@@ -78,8 +78,8 @@
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nest" width="45" height="45"
-        alt="Express" />
-      <br>Nest
+        alt="nest" />
+      <br>Nest.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45"
@@ -88,7 +88,7 @@
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45"
-        alt="rails" />
+        alt="wordpress" />
       <br>WordPress
     </td>
     <td align="center" width="90">
@@ -97,7 +97,7 @@
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="45"
+      <img src="https://skillicons.dev/icons?i=django" alt="django" width="45"
         height="45" />
       <br>Django
     </td>
@@ -114,6 +114,11 @@
   </tr>
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45"
+        alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45"
         alt="php" />
       <br>PHP
@@ -129,14 +134,9 @@
       <br>Flask
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45"
-        alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45"
-        alt="php" />
-      <br>Go
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45"
+        alt="Bootstrap" />
+      <br>Bootstrap
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" width="45" height="45"
