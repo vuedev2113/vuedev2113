@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m a Senior Vue.js developer.
 - 👀 I have a strong interest in developing a social web platform that surpasses human ideals.
-- 🌱 I’m currently learning Nuxt.js and Laravel.
+- 🌱 I’m currently learning AI engineering.
 - 💞️ I’m looking to collaborate on large project.
 - 📫 How to reach me: invite me into your project.
 - 😄 Pronouns: he/him.
