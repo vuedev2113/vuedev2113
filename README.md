@@ -1,10 +1,10 @@
-# Senior Vue Developer
+# Senior Full Stack Developer
 <p align="center"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></p>
 <hr>
 
-## I am a senior vue developer
+## I am a senior Full Stack developer
 
-- 👋 Hi, I’m a Senior Vue.js developer.
+- 👋 Hi, I’m a Senior Full Stack developer.
 - 👀 I have a strong interest in developing a social web platform that surpasses human ideals.
 - 🌱 I’m currently learning AI engineering.
 - 💞️ I’m looking to collaborate on large project.
