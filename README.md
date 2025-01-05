@@ -12,6 +12,8 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: music and football.
 
+<hr />
+
 <table align="center">
   <tr>
     <td colspan="9">
