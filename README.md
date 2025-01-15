@@ -162,7 +162,9 @@
     </td>
   </tr>
 </table>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vuedev2113&theme=algolia" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vuedev2113&theme=algolia" />
+</p>
 
 <!---
 vuedev2113/vuedev2113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
